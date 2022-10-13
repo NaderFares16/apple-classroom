@@ -1,0 +1,89 @@
+body {
+    background-color: #121214;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+}
+
+body .apple-classroom img {
+    padding-top: 219px;
+}
+
+body .apple-classroom h1 {
+    color: #E1E1E6;
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 12px;
+}
+
+body .apple-classroom p {
+    color: #7C7C8A;
+    font-size: 18px;
+    margin-bottom: 32px;
+}
+
+body .email-component {
+    color: #E1E1E6;
+    text-align: center;
+}
+
+body .password-component {
+    color: #E1E1E6;
+}
+
+body .remember p {
+    color: #C4C4CC;
+}
+
+body .remember input {
+   width: 24px;
+   height: 24px;
+   margin-top: 16px;
+}
+
+body .remember {
+    margin-bottom: 16px;
+    display: flex;
+    justify-content: center;
+}
+
+body .submit button {
+    height: 44px;
+    width: 300px;
+    border-radius: 4px;
+    background-color: #E1E1E6;
+    border-color: #E1E1E6;
+    border-style: none;
+    margin-bottom: 32px;
+}
+
+body .email-component input {
+    height: 44px;
+    width: 300px;
+    border-radius: 4px;
+    background-color: #202024;
+    border-color: #202024;
+    border-style: none;
+    text-align: left;
+}
+
+body .password-component input {
+    height: 44px;
+    width: 300px;
+    border-radius: 4px;
+    background-color: #202024;
+    border-color: #202024;
+    border-style: none;
+    text-align: left;
+}
+
+body .lost-password a {
+    text-decoration: underline;
+    color: #7C7C8A;
+    font-size: 14px;
+}
+
+body .create-account a {
+    text-decoration: underline;
+    color: #7C7C8A;
+    font-size: 14px;
+}
